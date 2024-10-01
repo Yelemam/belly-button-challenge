@@ -18,7 +18,7 @@ over 70% of people. This dashboard allows you to interactively dive into the dat
    8. Tech Stack
    9. Acknowledgments
 
-[Bellybutton Biodiversity.pdf](https://github.com/user-attachments/files/17211793/Bellybutton.Biodiversity.pdf)
+<img width="1090" alt="Screenshot 2024-10-01 at 10 14 28 AM" src="https://github.com/user-attachments/assets/65cb5bf5-e74c-4830-abc3-c86ffff7ece9">
 
 
 # Project Overview
